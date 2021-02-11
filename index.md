@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Text Summarization of Amazon Food Reviews(/sample_page)
+<img src="/Users/hsanhotra/Desktop/Screenshots?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

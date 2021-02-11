@@ -1,11 +1,10 @@
-## Portfolio
+## Data Science Portfolio
 
 ---
 
 ### Category Name 1 
 
-Text Summarization of Amazon Food Reviews(/sample_page)
-<img src="/Users/hsanhotra/Desktop/Screenshots?raw=true"/>
+Text Summarization of Amazon Food Reviews
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -31,5 +30,4 @@ Text Summarization of Amazon Food Reviews(/sample_page)
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->

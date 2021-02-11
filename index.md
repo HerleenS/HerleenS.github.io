@@ -5,7 +5,7 @@
 ### Projects
 
 Text Summarization of Amazon Food Reviews
-<img src = "https://github.com/HerleenS/HerleenS.github.io/blob/master/Image%201.png"/>
+<img src = "Image 1.png>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

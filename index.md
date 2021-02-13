@@ -4,20 +4,28 @@
 
 ### Projects
 
-Text Summarization of Amazon Food Reviews
+Text Summarization of Amazon Food Reviews(Natural Language Processing)
 <img src = "Image 1.png">
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+Face Mask Detection(Machine Learning)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+Prediction of Severity of Accidents in the US(Knowledge Based Systems)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+Data Analysis of Student Alcohol Consumption
+<img src=""/>
 
-### Category Name 2
+---
+Walmart Sales Forecasting
+<img src=""/>
+
+---
+
+### Notebooks
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)

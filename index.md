@@ -9,19 +9,19 @@ Text Summarization of Amazon Food Reviews(Natural Language Processing)
 
 ---
 Face Mask Detection(Machine Learning)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="Image2.png"/>
 
 ---
 Prediction of Severity of Accidents in the US(Knowledge Based Systems)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="Image3.png"/>
 
 ---
 Data Analysis of Student Alcohol Consumption
-<img src=""/>
+<img src="Image4.png"/>
 
 ---
 Walmart Sales Forecasting
-<img src=""/>
+<img src="Image5.png"/>
 
 ---
 

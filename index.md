@@ -16,11 +16,11 @@ Prediction of Severity of Accidents in the US(Knowledge Based Systems)
 <img src="Image3.png"/>
 
 ---
-Data Analysis of Student Alcohol Consumption
+Data Analysis of Student Alcohol Consumption(Software System Development and Implementation)
 <img src="Image4.png"/>
 
 ---
-Walmart Sales Forecasting
+Walmart Sales Forecasting(Knowledge Discovery and Databases)
 <img src="Image5.png"/>
 
 ---

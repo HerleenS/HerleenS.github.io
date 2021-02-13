@@ -4,11 +4,12 @@
 
 ## Projects
 
+---
 ### Text Summarization of Amazon Food Reviews(Natural Language Processing)
 <br>
 Built a text summarizer which generates shorter summaries of Amazon food reviews using a Multilayer LSTM Seq2Seq model with attention layer.
 <br>
-<a href = "https://colab.research.google.com/drive/1RLCfCXe7lWmYsTp72BP84DmQncCbEfWW?usp=sharing">View on Google Colab<a/>
+<a href = "https://colab.research.google.com/drive/1RLCfCXe7lWmYsTp72BP84DmQncCbEfWW?usp=sharing">[View on Google Colab]<a/><br>
 <img src = "images/Image1.png">
 
 ---

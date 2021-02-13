@@ -5,7 +5,7 @@
 <br>
 Built a text summarizer which generates shorter summaries of Amazon food reviews using a Multilayer LSTM Seq2Seq model with attention layer.
 <br>
-https://img.shields.io/badge/<Notebook>-<View on Colab>-<blue>(https://colab.research.google.com/drive/1RLCfCXe7lWmYsTp72BP84DmQncCbEfWW?usp=sharing)
+[![View on Google Colab](https://img.shields.io/badge/Notebook-View_on_Google_Colab-blue?logo=Google Colab)](https://colab.research.google.com/drive/1RLCfCXe7lWmYsTp72BP84DmQncCbEfWW?usp=sharing)
 <br><br>
 <img src = "images/Image1.png">
 

@@ -5,7 +5,7 @@
 ### Projects
 
 Text Summarization of Amazon Food Reviews(Natural Language Processing)
-<img src = "images/Image 1.png">
+<img src = "images/Image1.png">
 
 ---
 Face Mask Detection(Machine Learning)

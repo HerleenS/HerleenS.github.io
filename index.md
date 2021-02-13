@@ -13,7 +13,7 @@ Face Mask Detection(Machine Learning)
 
 ---
 Prediction of Severity of Accidents in the US(Knowledge Based Systems)
-<img src="Image3.png"/>
+<img src="images/Image3.png"/>
 
 ---
 Data Analysis of Student Alcohol Consumption(Software System Design and Implementation)

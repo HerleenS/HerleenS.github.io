@@ -2,9 +2,9 @@
 
 ---
 
-### Projects
+## Projects
 
-Text Summarization of Amazon Food Reviews(Natural Language Processing)
+### Text Summarization of Amazon Food Reviews(Natural Language Processing)
 <img src = "images/Image1.png">
 
 ---

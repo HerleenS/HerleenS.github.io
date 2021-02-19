@@ -18,6 +18,7 @@ Built a text summarizer which generates shorter summaries of Amazon food reviews
 <br>
 [Machine Learning]
 <br><br>
+Developed a face mask detection system using Convolutional Neural Network and tested it in real time using OpenCV.
 <img src="images/Image2.png"/>
 
 ---
@@ -25,7 +26,7 @@ Built a text summarizer which generates shorter summaries of Amazon food reviews
 <br>
 [Knowledge Based Systems]
 <br><br>
-Built a real-time prediction system to predict Traffic Accidents in the US, carried out exploratory data analysis and data preprocessing on Google Colab Notebook. Data ingestion was done using GCP's service BigQuery and a machine learning classfication model was trained using AutoMl tables.
+Built a real-time prediction system to predict Traffic Accidents in the US using a machine learning classification model on GCP's AutoML Tables.
 <br><br>
 [![View on Github](https://img.shields.io/badge/Github-View_on_Github-blue?logo=Github)](https://github.com/HerleenS/ITCS6155-KBS-Spring2020-Project
 )
@@ -37,6 +38,7 @@ Built a real-time prediction system to predict Traffic Accidents in the US, carr
 <br>
 [Software System Design and Implementation]
 <br><br>
+Analyzed causes of alcohol consumption in secondary school students with the help of data visualizations using Python libraries Matplotlib and Seaborn.
 <img src="images/Image4.png"/>
 
 ---
@@ -44,6 +46,7 @@ Built a real-time prediction system to predict Traffic Accidents in the US, carr
 <br>
 [Knowledge Discovery in Databases]
 <br><br>
+Built regression models to forecast weekly sales for Walmart store sales and established CRISP-DM methodology for the project cycle.
 <img src="images/Image5.png"/>
 
 ---

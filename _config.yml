@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/herleen-sanhotra/">View My LinkedIn Profile</a> 
   <br>
-  <meta http-equiv="Refresh" content="0; url='Resume/Herleen_Sanhotra_Resume.pdf'" />
+  <a href="Resume/Herleen_Sanhotra_Resume.pdf" http-equiv="Refresh" content="0/>Download My Resume</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

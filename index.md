@@ -15,7 +15,12 @@ Face Mask Detection(Machine Learning)
 <img src="images/Image2.png"/>
 
 ---
-Prediction of Severity of Accidents in the US(Knowledge Based Systems)
+### Prediction of Severity of Accidents in the US(Knowledge Based Systems)
+Built a real-time prediction system to predict Traffic Accidents in US based on several factors, carried out exploratory data analysis and data preprocessing on Google Colab Notebook. Data ingestion was done using GCP's service BigQuery and a machine learning classfication model was trained using AutoMl tables.
+<br><br>
+[![View on Github](https://img.shields.io/badge/Notebook-View_on_Google_Colab-blue?logo=Github)](https://github.com/HerleenS/ITCS6155-KBS-Spring2020-Project
+)
+<br><br>
 <img src="images/Image3.png"/>
 
 ---

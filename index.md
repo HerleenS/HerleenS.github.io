@@ -3,7 +3,7 @@
 ## Data Science Portfolio
 
 ---
-### Text Summarization of Amazon Food Reviews
+**Text Summarization of Amazon Food Reviews**
 [Natural Language Processing]
 <br>
 Built a text summarizer which generates shorter summaries of Amazon food reviews using a Multilayer LSTM Seq2Seq model with attention layer.
@@ -13,12 +13,12 @@ Built a text summarizer which generates shorter summaries of Amazon food reviews
 <img src = "images/Image1.png">
 
 ---
-### Face Mask Detection
+**Face Mask Detection**
 [Machine Learning]<br>
 <img src="images/Image2.png"/>
 
 ---
-### Prediction of Severity of Accidents in the US
+**Prediction of Severity of Accidents in the US**
 [Knowledge Based Systems]
 <br>
 Built a real-time prediction system to predict Traffic Accidents in the US, carried out exploratory data analysis and data preprocessing on Google Colab Notebook. Data ingestion was done using GCP's service BigQuery and a machine learning classfication model was trained using AutoMl tables.
@@ -29,13 +29,13 @@ Built a real-time prediction system to predict Traffic Accidents in the US, carr
 <img src="images/Image3.png"/>
 
 ---
-### Data Analysis of Student Alcohol Consumption
+**Data Analysis of Student Alcohol Consumption**
 [Software System Design and Implementation]
 <br>
 <img src="images/Image4.png"/>
 
 ---
-### Walmart Sales Forecasting
+**Walmart Sales Forecasting**
 [Knowledge Discovery in Databases]<br>
 <img src="images/Image5.png"/>
 

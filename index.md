@@ -4,7 +4,7 @@
 
 ---
 ### Text Summarization of Amazon Food Reviews
-[Natural Language Processing]
+[Natural Language Processing]<br>
 Built a text summarizer which generates shorter summaries of Amazon food reviews using a Multilayer LSTM Seq2Seq model with attention layer.
 <br><br>
 [![View on Google Colab](https://img.shields.io/badge/Notebook-View_on_Google_Colab-blue?logo=Google Colab)](https://colab.research.google.com/drive/1RLCfCXe7lWmYsTp72BP84DmQncCbEfWW?usp=sharing)
@@ -12,7 +12,8 @@ Built a text summarizer which generates shorter summaries of Amazon food reviews
 <img src = "images/Image1.png">
 
 ---
-Face Mask Detection(Machine Learning)
+### Face Mask Detection
+[Machine Learning]<br>
 <img src="images/Image2.png"/>
 
 ---
@@ -25,11 +26,13 @@ Built a real-time prediction system to predict Traffic Accidents in the US, carr
 <img src="images/Image3.png"/>
 
 ---
-Data Analysis of Student Alcohol Consumption(Software System Design and Implementation)
+### Data Analysis of Student Alcohol Consumption
+[Software System Design and Implementation]<br>
 <img src="images/Image4.png"/>
 
 ---
-Walmart Sales Forecasting(Knowledge Discovery in Databases)
+### Walmart Sales Forecasting
+[Knowledge Discovery in Databases]<br>
 <img src="images/Image5.png"/>
 
 ---

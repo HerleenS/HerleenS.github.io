@@ -6,7 +6,7 @@
 ### Text Summarization of Amazon Food Reviews(Natural Language Processing)
 Built a text summarizer which generates shorter summaries of Amazon food reviews using a Multilayer LSTM Seq2Seq model with attention layer.
 <br><br>
-[![View on Google Colab](https://img.shields.io/badge/Github-View_on_Github-blue?logo=Google Colab)](https://colab.research.google.com/drive/1RLCfCXe7lWmYsTp72BP84DmQncCbEfWW?usp=sharing)
+[![View on Google Colab](https://img.shields.io/badge/Notebook-View_on_Google_Colab-blue?logo=Google Colab)](https://colab.research.google.com/drive/1RLCfCXe7lWmYsTp72BP84DmQncCbEfWW?usp=sharing)
 <br><br>
 <img src = "images/Image1.png">
 
@@ -18,7 +18,7 @@ Face Mask Detection(Machine Learning)
 ### Prediction of Severity of Accidents in the US(Knowledge Based Systems)
 Built a real-time prediction system to predict Traffic Accidents in the US, carried out exploratory data analysis and data preprocessing on Google Colab Notebook. Data ingestion was done using GCP's service BigQuery and a machine learning classfication model was trained using AutoMl tables.
 <br><br>
-[![View on Github](https://img.shields.io/badge/Notebook-View_on_Google_Colab-blue?logo=Github)](https://github.com/HerleenS/ITCS6155-KBS-Spring2020-Project
+[![View on Github](https://img.shields.io/badge/Github-View_on_Github-blue?logo=Github)](https://github.com/HerleenS/ITCS6155-KBS-Spring2020-Project
 )
 <br><br>
 <img src="images/Image3.png"/>

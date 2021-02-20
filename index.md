@@ -20,6 +20,7 @@ Built a text summarizer which generates shorter summaries of Amazon food reviews
 <br><br>
 Developed a face mask detection system using Convolutional Neural Network and tested it in real time using OpenCV.
 <br><br>
+[![View on Google Colab](https://img.shields.io/badge/Notebook-View_on_Google_Colab-blue?logo=Google Colab)](https://colab.research.google.com/drive/1g8S-AMXk0hazks3yZgcgFWKrYNWTdZ4M?usp=sharing)
 <img src="images/Image2.png"/>
 
 ---
@@ -29,8 +30,7 @@ Developed a face mask detection system using Convolutional Neural Network and te
 <br><br>
 Built a real-time prediction system to predict Traffic Accidents in the US using a Machine Learning Classification model on GCP's AutoML Tables.
 <br><br>
-[![View on Github](https://img.shields.io/badge/Github-View_on_Github-blue?logo=Github)](https://github.com/HerleenS/ITCS6155-KBS-Spring2020-Project
-)
+[![View on Github](https://img.shields.io/badge/Github-View_on_Github-blue?logo=Github)](https://github.com/HerleenS/ITCS6155-KBS-Spring2020-Project)
 <br><br>
 <img src="images/Image3.png"/>
 
@@ -52,6 +52,7 @@ Analyzed causes of alcohol consumption in secondary school students with the hel
 <br><br>
 Built regression models to forecast weekly sales for Walmart store sales and established CRISP-DM methodology for the project cycle.
 <br><br>
+[![View on Github](https://img.shields.io/badge/Github-View_on_Github-blue?logo=Github)](https://github.com/skanikasaini6/KDD_Project)
 <img src="images/Image5.png"/>
 
 ---

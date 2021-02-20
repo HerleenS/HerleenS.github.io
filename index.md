@@ -39,6 +39,8 @@ Built a real-time prediction system to predict Traffic Accidents in the US using
 [Software System Design and Implementation]
 <br><br>
 Analyzed causes of alcohol consumption in secondary school students with the help of data visualizations using Python libraries Matplotlib and Seaborn.
+<br><br>
+[![View on Google Colab](https://img.shields.io/badge/Notebook-View_on_Google_Colab-blue?logo=Google Colab)](https://colab.research.google.com/drive/1xLaMqsuY_OtEsIFYwxrF-jw3s6gpOdqw?usp=sharing)
 <img src="images/Image4.png"/>
 
 ---

@@ -18,9 +18,10 @@ Built a text summarizer which generates shorter summaries of Amazon food reviews
 <br>
 [Machine Learning]
 <br><br>
+[![View on Google Colab](https://img.shields.io/badge/Notebook-View_on_Google_Colab-blue?logo=Google Colab)](https://colab.research.google.com/drive/1g8S-AMXk0hazks3yZgcgFWKrYNWTdZ4M?usp=sharing)
+<br><br>
 Developed a face mask detection system using Convolutional Neural Network and tested it in real time using OpenCV.
 <br><br>
-[![View on Google Colab](https://img.shields.io/badge/Notebook-View_on_Google_Colab-blue?logo=Google Colab)](https://colab.research.google.com/drive/1g8S-AMXk0hazks3yZgcgFWKrYNWTdZ4M?usp=sharing)
 <img src="images/Image2.png"/>
 
 ---

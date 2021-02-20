@@ -26,7 +26,7 @@ Developed a face mask detection system using Convolutional Neural Network and te
 <br>
 [Knowledge Based Systems]
 <br><br>
-Built a real-time prediction system to predict Traffic Accidents in the US using a machine learning classification model on GCP's AutoML Tables.
+Built a real-time prediction system to predict Traffic Accidents in the US using a Machine Learning Classification model on GCP's AutoML Tables.
 <br><br>
 [![View on Github](https://img.shields.io/badge/Github-View_on_Github-blue?logo=Github)](https://github.com/HerleenS/ITCS6155-KBS-Spring2020-Project
 )

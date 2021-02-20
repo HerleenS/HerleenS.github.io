@@ -19,6 +19,7 @@ Built a text summarizer which generates shorter summaries of Amazon food reviews
 [Machine Learning]
 <br><br>
 Developed a face mask detection system using Convolutional Neural Network and tested it in real time using OpenCV.
+<br><br>
 <img src="images/Image2.png"/>
 
 ---
@@ -41,6 +42,7 @@ Built a real-time prediction system to predict Traffic Accidents in the US using
 Analyzed causes of alcohol consumption in secondary school students with the help of data visualizations using Python libraries Matplotlib and Seaborn.
 <br><br>
 [![View on Google Colab](https://img.shields.io/badge/Notebook-View_on_Google_Colab-blue?logo=Google Colab)](https://colab.research.google.com/drive/1xLaMqsuY_OtEsIFYwxrF-jw3s6gpOdqw?usp=sharing)
+<br><br>
 <img src="images/Image4.png"/>
 
 ---
@@ -49,6 +51,7 @@ Analyzed causes of alcohol consumption in secondary school students with the hel
 [Knowledge Discovery in Databases]
 <br><br>
 Built regression models to forecast weekly sales for Walmart store sales and established CRISP-DM methodology for the project cycle.
+<br><br>
 <img src="images/Image5.png"/>
 
 ---

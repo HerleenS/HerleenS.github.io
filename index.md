@@ -29,7 +29,7 @@ Developed a face mask detection system using Convolutional Neural Network and te
 <br>
 [Knowledge Based Systems]
 <br><br>
-[![View on Github](https://img.shields.io/badge/Github-View_on_Github-blue?logo=Github)](https://github.com/HerleenS/ITCS6155-KBS-Spring2020-Project)
+[![View on Github](https://img.shields.io/badge/Repository-View_on_Github-blue?logo=Github)](https://github.com/HerleenS/ITCS6155-KBS-Spring2020-Project)
 <br><br>
 Built a real-time prediction system to predict Traffic Accidents in the US using a Machine Learning Classification model on GCP's AutoML Tables.
 <br><br>
@@ -51,7 +51,7 @@ Analyzed causes of alcohol consumption in secondary school students with the hel
 <br>
 [Knowledge Discovery in Databases]
 <br><br>
-[![View on Github](https://img.shields.io/badge/Github-View_on_Github-blue?logo=Github)](https://github.com/skanikasaini6/KDD_Project)
+[![View on Github](https://img.shields.io/badge/Repository-View_on_Github-blue?logo=Github)](https://github.com/skanikasaini6/KDD_Project)
 <br><br>
 Built regression models to forecast weekly sales for Walmart store sales and established CRISP-DM methodology for the project cycle.
 <br><br>

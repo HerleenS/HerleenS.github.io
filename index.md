@@ -59,13 +59,4 @@ Built regression models to forecast weekly sales for Walmart store sales and est
 
 ---
 
-### Other Work
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 <!-- Remove above link if you don't want to attibute -->

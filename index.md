@@ -57,6 +57,7 @@ Built regression models to forecast weekly sales for Walmart store sales and est
 
 ---
 **Related Work**
+* Performing DDL and DML commands using MySQL<a href="https://github.com/UnexceptedSpectic/campus-eats">[Link]</a>
 * Notebook on Exploratory Data Analysis on Regression and Classification Datasets <a href="https://colab.research.google.com/drive/10HMQeMgvPS20b_iOPKBtiVsWulNkGe4W?usp=sharing">[Link]</a>
 
 <!-- Remove above link if you don't want to attibute -->

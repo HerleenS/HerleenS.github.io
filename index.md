@@ -57,6 +57,6 @@ Built regression models to forecast weekly sales for Walmart store sales and est
 
 ---
 **Related Work**
-* Notebook on Exploratory Data Analysis on Regression and Classification Datasets
+* Notebook on Exploratory Data Analysis on Regression and Classification Datasets [<a href="https://colab.research.google.com/drive/10HMQeMgvPS20b_iOPKBtiVsWulNkGe4W?usp=sharing">[Link]</a> 
 
 <!-- Remove above link if you don't want to attibute -->
